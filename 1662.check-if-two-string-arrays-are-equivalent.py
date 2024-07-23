@@ -14,7 +14,7 @@ class Solution(object):
         :rtype: bool
         """
         comp1 = "".join(word1)
-        comp2 = "".join(word1)
+        comp2 = "".join(word2)
         return comp1 == comp2
 
 
